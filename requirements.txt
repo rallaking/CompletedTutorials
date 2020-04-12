@@ -3,7 +3,6 @@ pandas
 numpy
 sklearn
 mlxtend
-random
 graphivz
 pydotplus
 collections
