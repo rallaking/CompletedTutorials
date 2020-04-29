@@ -5,7 +5,7 @@ Tutorials for BIA CCTB644
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder.org/v2/gh/rallaking/BIA-tutorials/master?filepath=index.ipynb
+https://mybinder.org/v2/gh/rallaking/BIA-tutorials/master
 
 
 ## Notes regarding these tutorials
