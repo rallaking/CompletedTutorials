@@ -1,7 +1,7 @@
 # BIA-tutorials
 Tutorials for BIA CCTB644
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/rallaking/BIA-tutorials/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rallaking/BIA-tutorials/master)
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
