@@ -11,4 +11,3 @@ dependencies:
   - seaborn
   - scipy
   - mlxtend
-  - pandas-profiling
