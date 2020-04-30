@@ -12,7 +12,7 @@ https://mybinder.org/v2/gh/rallaking/BIA-tutorials/master
 The tutorials are intended to walk you through the code required to execute the various techniques for machine learning. Each step is outlined with an explanation of the code, an image of the code, and a cell for you to type and run the code. You must run each cell in the order provided for the code to execute properly.
 
 ## Tutorial Goals
-The purpose of these tutorials is to provide hands-on experience in typing code, as well as providing an environment where you can explore the code and experience the results as the code is run. Take as much time as you need to complete the tutorials in the order indicated.  
+The purpose of these tutorials is to provide hands-on experience executing code, as well as providing an environment where you can explore the code and experience the results as the code is run. Take as much time as you need to complete the tutorials in the order indicated.  
 
 The environment you are working in is your own sandbox. Feel free to comment out the successful code you've run and try some variations on the code to explore some of the options. It's ok to get errors. It's ok to try out different things to see what you can do.
 
