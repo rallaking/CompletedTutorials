@@ -1,11 +1,11 @@
 # BIA-tutorials
 Tutorials for BIA CCTB644
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rallaking/CompletedTutorials/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rallaking/CompletedTutorials/main)
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/rallaking/CompletedTutorials/master
+https://mybinder.org/v2/gh/rallaking/CompletedTutorials/main
 
 ##### NOTE: Using Internet Explorer as your web browser may cause significant delays. 
 
